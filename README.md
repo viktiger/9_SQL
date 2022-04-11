@@ -1,8 +1,8 @@
 # VS_Assignment9_SQL
 
 ## **Project Parts:**
-(1) SQL_Challenge_ERD.png
-(2) SQL_Challenge_ERD_Code.txt
+(1) SQL_Challenge_ERD.png /
+(2) SQL_Challenge_ERD_Code.txt /
 (3) SQL_Challenge_Engineering_Table_Schema.SQL
 (4) SQL_Challenge_Analytics.SQL
 (5) Bonus - SQL_Challenge_Visualisation.ipynb
