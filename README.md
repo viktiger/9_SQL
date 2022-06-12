@@ -1,4 +1,4 @@
-# VS_Assignment9_SQL
+# 9_SQL
 
 ## **Project Parts:**
 (1) SQL_Challenge_ERD.png\
